@@ -31,7 +31,6 @@ Pod::Spec.new do |s|
   s.homepage     = "http://github.com/ClaireDavis/PGNColorPod"
   s.screenshots  = "https://cloud.githubusercontent.com/assets/12128959/12278601/14ba0e00-b950-11e5-882e-376d3d3c3cbb.png", "https://cloud.githubusercontent.com/assets/12128959/12278605/14bca296-b950-11e5-9223-06960b0a4ced.png", "https://cloud.githubusercontent.com/assets/12128959/12278604/14bc71f4-b950-11e5-8b73-281bbd9782fc.png", "https://cloud.githubusercontent.com/assets/12128959/12278602/14bb6598-b950-11e5-904d-df008e87aab9.png", "https://cloud.githubusercontent.com/assets/12128959/12278607/14c046bc-b950-11e5-8c07-95967dc83b28.png", "https://cloud.githubusercontent.com/assets/12128959/12278603/14bc3126-b950-11e5-867d-91d9add1fb71.png", "https://cloud.githubusercontent.com/assets/12128959/12278606/14c065c0-b950-11e5-8d6c-9809e5a2f6bc.png", "https://cloud.githubusercontent.com/assets/12128959/12278608/14c5abe8-b950-11e5-91aa-5a6859f3edc1.png"
 
-
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  Licensing your code is important. See http://choosealicense.com for more info.
