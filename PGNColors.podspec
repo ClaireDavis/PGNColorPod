@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "PGNColors"
+  s.source_files  = "PGNColors/**/*.{h,m}"
 
   # s.public_header_files = "PGNColorPod"
 
