@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PGNColors"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Provides 40+ additional baked-in UIColors as well as hex and gradient convenience methods."
 
   # This description is used to generate tags and improve search results.
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/ClaireDavis/PGNColorPod.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/ClaireDavis/PGNColorPod.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
 
   s.source_files  = "*.{h,m}"
 
-  # s.public_header_files = "Classes/**/*.h"
+  # s.public_header_files = "PGNColorPod"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
